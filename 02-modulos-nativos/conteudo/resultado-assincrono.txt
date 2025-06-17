@@ -1,0 +1,3 @@
+Resultados:
+Essa é o primeiro arquivo de texto, dentro do diretório 'conteudo'.
+Esse é o segundo arquivo de texto, que está dentro do subdiretório de 'conteudo'
