@@ -1,5 +1,5 @@
 // sem 'sync' -> versão assíncrona
-const { readFile, writeFile, read } = require("fs");
+const { readFile, writeFile } = require("fs");
 
 readFile("./conteudo/primeiro.txt", "utf-8", (err, result) => {
     if (err) {
