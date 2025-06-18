@@ -1,0 +1,19 @@
+{
+  "name": "learning-node-fcc",
+  "version": "1.0.0",
+  "description": "Projeto para aprendizagem, acompanhando o curso da Free Code Camp!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikki-unix/learning-node-fcc.git"
+  },
+  "author": "mikki-unix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikki-unix/learning-node-fcc/issues"
+  },
+  "homepage": "https://github.com/mikki-unix/learning-node-fcc#readme"
+}
