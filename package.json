@@ -4,7 +4,8 @@
   "description": "Projeto para aprendizagem, acompanhando o curso da Free Code Camp!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mikki-unix/learning-node-fcc/issues"
   },
-  "homepage": "https://github.com/mikki-unix/learning-node-fcc#readme"
+  "homepage": "https://github.com/mikki-unix/learning-node-fcc#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
